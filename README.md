@@ -38,15 +38,16 @@ Before running the application first install the following dependencies.
 
 ## Usage
 
-To use the risk return analysis program you can clos
+To use the risk return analysis program you will utilize the following and its libraries:
 
 ```python
-python app.py
+Jupyter Lab
+Python
 ```
 .
-Upon launching the risk return analysis
+Upon launching the risk return analysis in jupyter lab
 
-![Risk Return Analisys Prompts](Images/loan_qalifier.png)
+![Risk Return Analisys Prompts](images/jupyter_lab.png)
 
 
 ---
