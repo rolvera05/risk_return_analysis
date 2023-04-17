@@ -45,7 +45,7 @@ Jupyter Lab
 Python
 ```
 .
-Upon launching the risk return analysis in jupyter lab
+Upon launching jupyter lab
 
 ![Risk Return Analisys Prompts](images/jupyter_lab.png)
 
